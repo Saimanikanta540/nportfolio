@@ -1,0 +1,26 @@
+export const skills = [
+  { name: "Machine Learning", category: "AI/ML" },
+  { name: "Deep Learning", category: "AI/ML" },
+  { name: "Computer Vision", category: "AI/ML" },
+  { name: "OpenCV", category: "AI/ML" },
+  { name: "YOLO", category: "AI/ML" },
+  { name: "React", category: "Frontend" },
+  { name: "Flask", category: "Backend" },
+  { name: "Django", category: "Backend" },
+  { name: "Tailwind CSS", category: "Frontend" },
+  { name: "Python", category: "Language" },
+  { name: "JavaScript", category: "Language" },
+  { name: "Java", category: "Language" },
+  { name: "TensorFlow", category: "AI/ML" },
+  { name: "Data Analysis", category: "Data" },
+  { name: "Model Deployment", category: "AI/ML" },
+  { name: "DSA", category: "CS" },
+  { name: "Competitive Programming", category: "CS" },
+  { name: "MySQL", category: "Database" },
+  { name: "SQLite3", category: "Database" },
+  { name: "Git/GitHub", category: "Tools" },
+  { name: "Docker", category: "Tools" },
+  { name: "Leadership", category: "Soft Skills" },
+  { name: "Team Collaboration", category: "Soft Skills" }
+];
+
