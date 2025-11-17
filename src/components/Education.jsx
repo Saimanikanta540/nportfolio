@@ -10,7 +10,7 @@ const Education = () => {
   const education = {
     degree: 'BTech in Computer Science Engineering',
     institution: 'Malla Reddy Engineering College For Women',
-    period: 'July 2023 – May 2027',
+    period: 'July 2024 – May 2027',
     cgpa: '9.5/10',
   }
 
